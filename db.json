@@ -1,0 +1,46 @@
+{
+	"post":[
+  {
+	"id": 1,
+	"Nombre": "Alimento Master Pet",
+	"Tipo": "Canino",
+	"Descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit repellendus vitae natus dolorem! Autem id adipisci modi error non magni quidem nemo ad hic praesentium, repellendus accusamus debitis quod voluptatem!",
+	"Imagen": "https://cdnx.jumpseller.com/alimentopet-cl/image/8469835/thumb/540/540?1618256581"
+
+
+},
+{
+	"id": 2,
+	"Nombre": "Alimento Master PetCachorro",
+	"Tipo": "Felino",
+	"Descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit repellendus vitae natus dolorem! Autem id adipisci modi error non magni quidem nemo ad hic praesentium, repellendus accusamus debitis quod voluptatem!",
+	"Imagen": "https://cdnx.jumpseller.com/alimentopet-cl/image/8469835/thumb/540/540?1618256581"
+
+}, 
+{
+	"id": 3,
+	"Nombre": "Alimento wishkat",
+	"Tipo": "Felino",
+	"Descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit repellendus vitae natus dolorem! Autem id adipisci modi error non magni quidem nemo ad hic praesentium, repellendus accusamus debitis quod voluptatem!",
+	"Imagen": "https://www.distribuidoralira.cl/wp-content/uploads/2017/08/Carne-adulto-600x886.jpg"
+}, 
+{
+	"id": 4,
+	"Nombre": "Alimento wishkat cachorro",
+	"Tipo": "Felino",
+	"Descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit repellendus vitae natus dolorem! Autem id adipisci modi error non magni quidem nemo ad hic praesentium, repellendus accusamus debitis quod voluptatem!",
+	"Imagen": "https://www.distribuidoralira.cl/wp-content/uploads/2017/08/Carne-adulto-600x886.jpg"
+},
+  {
+	"id": 5,
+	"Nombre": "Alimento CANITO",
+	"Tipo": "Canino",
+	"Descripcion": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit repellendus vitae natus dolorem! Autem id adipisci modi error non magni quidem nemo ad hic praesentium, repellendus accusamus debitis quod voluptatem!",
+	"Imagen": "https://www.distribuidoralira.cl/wp-content/uploads/2017/08/Carne-adulto-600x886.jpg"
+
+
+}
+
+]
+
+}
